@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/patelprath46323" target="blank"><img src="https://img.shields.io/twitter/follow/patelprath46323?logo=twitter&style=for-the-badge" alt="patelprath46323" /></a> </p>
 
-- 🔭 I’m currently working on **Krishiseva-System**
+- 🔭 I’m currently working on **KrishisevaSystem**
 
 - 🌱 I’m currently learning **Full-Stack Programming**
 
